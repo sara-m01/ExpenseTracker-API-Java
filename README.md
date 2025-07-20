@@ -22,10 +22,9 @@ Ideal for students, professionals, and budget-conscious users.
 
 - Java 17
 - Spring Boot
-- Spring Web + JPA + H2 Database
+- Spring Web + JPA 
 - Maven
 - Swagger (OpenAPI UI)
-- (Optional) PostgreSQL for persistent storage
 
 ---
 
